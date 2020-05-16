@@ -1,0 +1,26 @@
+{
+  "name": "ckeditor-upload-weblink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtam2/ckeditor-upload-weblink.git"
+  },
+  "keywords": [
+    "ckeditor"
+  ],
+  "author": "Jacob Tam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtam2/ckeditor-upload-weblink/issues"
+  },
+  "homepage": "https://github.com/jtam2/ckeditor-upload-weblink#readme",
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": "^19.0.0",
+    "@ckeditor/ckeditor5-ui": "^19.0.0"
+  }
+}
